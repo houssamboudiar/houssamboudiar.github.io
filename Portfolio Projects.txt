@@ -1,3 +1,0 @@
-- Responsive Image Gallery
-- Restaurant Management Laravel MySQL
-- Library Management C# WCF MySQL
